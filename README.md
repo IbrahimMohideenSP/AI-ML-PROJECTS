@@ -46,7 +46,48 @@ This repository showcases multiple projects built using Python, machine learning
 
 📦 Tools: scikit-learn, pandas (optional: blockchain, FastAPI)
 
+ 6.Diabetes Prediction with Machine Learning 
+
+A predictive AI system that analyzes health metrics to assess diabetes risk in individuals.
+✅ 1.Health Data Analysis
+- Uses features like Glucose, BMI, Age, Insulin, etc.
+- Data loaded directly from Google Sheets.
+✅ 2.Diabetes Classification using Random Forest
+- Trained with Random Forest for high accuracy.
+- Feature scaling via StandardScaler.
+✅ 3.Real-time Prediction Support
+- Test with manual inputs for instant diagnosis.
+- Outputs: "Diabetic" or "Not Diabetic"
+
 ---
+🛠️ Tools Used
+
+- Python 🐍  
+- Pandas & NumPy for data handling  
+- Scikit-learn for ML modeling  
+- Matplotlib & Seaborn for visualization  
+- Google Sheets as dataset source  
+- Joblib for model saving  
+
+7.Movie Rating Prediction 
+
+An AI model that predicts IMDb ratings based on movie features like genre, duration, cast, and budget.
+🧠 Key Features
+
+✅ Predicts movie ratings using regression models  
+✅ Handles missing values, encodes categorical data  
+✅ Supports custom input for real-time predictions
+
+🛠️ Tools Used
+
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- Matplotlib, Seaborn  
+
+---
+
+## 👨‍💻 Developed By
 
 ## How to Run the Projects
 
