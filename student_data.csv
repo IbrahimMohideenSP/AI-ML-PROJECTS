@@ -1,9 +1,1 @@
-StudentID,GPA,AttendanceRate,ParentalEducation,InternetAccess,Dropout
-1,3.5,0.95,Bachelor,Yes,0
-2,2.1,0.70,HighSchool,No,1
-3,3.0,0.85,Master,Yes,0
-4,1.8,0.60,None,No,1
-5,2.7,0.75,HighSchool,Yes,0
-6,1.5,0.50,None,No,1
-7,3.2,0.90,Bachelor,Yes,0
-8,2.0,0.65,HighSchool,No,1
+
