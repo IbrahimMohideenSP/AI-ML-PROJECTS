@@ -1,0 +1,501 @@
+age_group,hospitalized,death_yn
+10 - 19 Years,No,Yes
+40 - 49 Years,No,Yes
+30 - 39 Years,Yes,No
+0 - 9 Years,No,No
+60 - 69 Years,No,No
+70 - 79 Years,Yes,No
+80+,Yes,Yes
+40 - 49 Years,Yes,Yes
+60 - 69 Years,No,Yes
+70 - 79 Years,Yes,No
+80+,Yes,No
+50 - 59 Years,Yes,No
+50 - 59 Years,Yes,No
+10 - 19 Years,No,Yes
+10 - 19 Years,Yes,Yes
+10 - 19 Years,Yes,Yes
+10 - 19 Years,Yes,No
+20 - 29 Years,No,Yes
+30 - 39 Years,Yes,No
+50 - 59 Years,No,No
+20 - 29 Years,Yes,No
+80+,No,Yes
+70 - 79 Years,Yes,No
+10 - 19 Years,No,No
+80+,Yes,Yes
+80+,No,No
+80+,No,Yes
+0 - 9 Years,No,Yes
+70 - 79 Years,No,Yes
+80+,Yes,Yes
+50 - 59 Years,No,Yes
+40 - 49 Years,Yes,Yes
+40 - 49 Years,No,Yes
+70 - 79 Years,No,Yes
+40 - 49 Years,No,Yes
+80+,No,Yes
+10 - 19 Years,No,Yes
+10 - 19 Years,Yes,No
+50 - 59 Years,No,No
+10 - 19 Years,Yes,Yes
+70 - 79 Years,No,Yes
+50 - 59 Years,No,Yes
+0 - 9 Years,Yes,Yes
+60 - 69 Years,Yes,Yes
+70 - 79 Years,No,No
+30 - 39 Years,Yes,No
+0 - 9 Years,No,No
+40 - 49 Years,Yes,No
+40 - 49 Years,No,Yes
+0 - 9 Years,Yes,Yes
+30 - 39 Years,No,No
+60 - 69 Years,Yes,No
+80+,No,No
+40 - 49 Years,Yes,Yes
+60 - 69 Years,No,No
+20 - 29 Years,Yes,Yes
+60 - 69 Years,No,Yes
+20 - 29 Years,Yes,No
+60 - 69 Years,Yes,Yes
+50 - 59 Years,No,No
+0 - 9 Years,No,Yes
+60 - 69 Years,No,Yes
+80+,No,Yes
+40 - 49 Years,No,Yes
+20 - 29 Years,Yes,Yes
+10 - 19 Years,No,No
+70 - 79 Years,Yes,No
+10 - 19 Years,Yes,No
+80+,Yes,Yes
+80+,No,Yes
+80+,Yes,No
+60 - 69 Years,Yes,No
+20 - 29 Years,Yes,No
+80+,Yes,No
+20 - 29 Years,Yes,No
+70 - 79 Years,No,Yes
+60 - 69 Years,No,No
+40 - 49 Years,Yes,No
+30 - 39 Years,No,No
+80+,No,Yes
+60 - 69 Years,No,No
+70 - 79 Years,No,Yes
+80+,No,No
+50 - 59 Years,Yes,Yes
+20 - 29 Years,No,No
+80+,No,No
+0 - 9 Years,Yes,No
+40 - 49 Years,No,No
+0 - 9 Years,No,Yes
+60 - 69 Years,Yes,No
+60 - 69 Years,No,Yes
+20 - 29 Years,No,Yes
+20 - 29 Years,No,Yes
+50 - 59 Years,Yes,No
+70 - 79 Years,No,No
+80+,Yes,No
+50 - 59 Years,No,Yes
+10 - 19 Years,Yes,No
+40 - 49 Years,Yes,No
+30 - 39 Years,Yes,Yes
+80+,No,Yes
+70 - 79 Years,Yes,No
+0 - 9 Years,No,No
+20 - 29 Years,Yes,No
+70 - 79 Years,No,No
+60 - 69 Years,Yes,No
+0 - 9 Years,No,No
+70 - 79 Years,Yes,Yes
+50 - 59 Years,Yes,No
+50 - 59 Years,Yes,No
+0 - 9 Years,No,No
+0 - 9 Years,Yes,No
+0 - 9 Years,Yes,Yes
+60 - 69 Years,No,No
+30 - 39 Years,Yes,Yes
+50 - 59 Years,Yes,No
+50 - 59 Years,Yes,Yes
+20 - 29 Years,No,Yes
+10 - 19 Years,Yes,No
+30 - 39 Years,Yes,No
+50 - 59 Years,No,Yes
+50 - 59 Years,Yes,No
+10 - 19 Years,Yes,No
+20 - 29 Years,Yes,Yes
+0 - 9 Years,Yes,Yes
+70 - 79 Years,No,No
+20 - 29 Years,Yes,No
+20 - 29 Years,No,No
+60 - 69 Years,No,No
+70 - 79 Years,Yes,Yes
+10 - 19 Years,Yes,Yes
+0 - 9 Years,Yes,No
+70 - 79 Years,Yes,No
+50 - 59 Years,Yes,No
+40 - 49 Years,No,No
+80+,Yes,No
+30 - 39 Years,No,No
+20 - 29 Years,Yes,Yes
+80+,No,No
+20 - 29 Years,No,Yes
+60 - 69 Years,No,Yes
+50 - 59 Years,Yes,No
+0 - 9 Years,Yes,No
+80+,Yes,Yes
+30 - 39 Years,No,No
+0 - 9 Years,Yes,Yes
+20 - 29 Years,No,No
+50 - 59 Years,No,Yes
+50 - 59 Years,Yes,No
+80+,No,Yes
+40 - 49 Years,No,Yes
+0 - 9 Years,Yes,Yes
+40 - 49 Years,Yes,Yes
+80+,Yes,Yes
+60 - 69 Years,Yes,No
+40 - 49 Years,No,Yes
+70 - 79 Years,No,No
+80+,Yes,No
+40 - 49 Years,No,Yes
+30 - 39 Years,Yes,Yes
+40 - 49 Years,Yes,No
+10 - 19 Years,Yes,Yes
+0 - 9 Years,Yes,Yes
+70 - 79 Years,No,Yes
+80+,Yes,No
+20 - 29 Years,No,No
+70 - 79 Years,No,Yes
+40 - 49 Years,No,Yes
+30 - 39 Years,Yes,Yes
+30 - 39 Years,Yes,Yes
+50 - 59 Years,No,Yes
+40 - 49 Years,No,Yes
+20 - 29 Years,No,No
+80+,Yes,No
+70 - 79 Years,No,No
+0 - 9 Years,No,Yes
+80+,Yes,No
+70 - 79 Years,No,No
+0 - 9 Years,Yes,No
+50 - 59 Years,Yes,Yes
+30 - 39 Years,Yes,Yes
+0 - 9 Years,No,Yes
+40 - 49 Years,Yes,Yes
+70 - 79 Years,Yes,Yes
+0 - 9 Years,No,Yes
+50 - 59 Years,No,Yes
+30 - 39 Years,Yes,No
+30 - 39 Years,No,Yes
+50 - 59 Years,Yes,No
+80+,No,Yes
+10 - 19 Years,Yes,Yes
+60 - 69 Years,No,No
+60 - 69 Years,No,No
+30 - 39 Years,Yes,No
+40 - 49 Years,Yes,Yes
+80+,Yes,No
+40 - 49 Years,No,No
+10 - 19 Years,Yes,Yes
+20 - 29 Years,No,Yes
+10 - 19 Years,Yes,No
+80+,Yes,Yes
+60 - 69 Years,No,No
+10 - 19 Years,Yes,No
+30 - 39 Years,Yes,Yes
+50 - 59 Years,No,No
+10 - 19 Years,Yes,No
+30 - 39 Years,Yes,No
+10 - 19 Years,No,No
+80+,No,No
+80+,Yes,Yes
+60 - 69 Years,Yes,No
+20 - 29 Years,No,No
+10 - 19 Years,No,No
+0 - 9 Years,Yes,No
+80+,No,Yes
+0 - 9 Years,No,No
+70 - 79 Years,Yes,No
+0 - 9 Years,Yes,Yes
+10 - 19 Years,Yes,Yes
+80+,Yes,No
+50 - 59 Years,No,No
+20 - 29 Years,No,No
+20 - 29 Years,Yes,Yes
+30 - 39 Years,Yes,No
+40 - 49 Years,No,No
+40 - 49 Years,Yes,No
+50 - 59 Years,No,Yes
+30 - 39 Years,No,Yes
+30 - 39 Years,Yes,No
+80+,Yes,No
+20 - 29 Years,Yes,No
+50 - 59 Years,Yes,Yes
+50 - 59 Years,Yes,No
+10 - 19 Years,No,Yes
+70 - 79 Years,Yes,Yes
+40 - 49 Years,No,No
+50 - 59 Years,Yes,No
+50 - 59 Years,Yes,Yes
+30 - 39 Years,No,Yes
+10 - 19 Years,No,No
+80+,No,Yes
+0 - 9 Years,Yes,No
+80+,No,Yes
+50 - 59 Years,Yes,No
+60 - 69 Years,Yes,Yes
+40 - 49 Years,No,Yes
+60 - 69 Years,No,No
+20 - 29 Years,Yes,Yes
+80+,Yes,No
+50 - 59 Years,No,Yes
+20 - 29 Years,Yes,Yes
+30 - 39 Years,Yes,No
+40 - 49 Years,No,No
+40 - 49 Years,Yes,No
+20 - 29 Years,Yes,Yes
+80+,No,No
+10 - 19 Years,No,Yes
+50 - 59 Years,No,Yes
+80+,No,Yes
+80+,No,No
+10 - 19 Years,No,No
+0 - 9 Years,Yes,Yes
+0 - 9 Years,No,No
+60 - 69 Years,No,No
+0 - 9 Years,Yes,No
+0 - 9 Years,Yes,Yes
+20 - 29 Years,Yes,No
+60 - 69 Years,Yes,No
+70 - 79 Years,Yes,Yes
+20 - 29 Years,Yes,Yes
+20 - 29 Years,Yes,No
+20 - 29 Years,No,Yes
+50 - 59 Years,Yes,No
+30 - 39 Years,Yes,Yes
+80+,Yes,No
+60 - 69 Years,No,No
+50 - 59 Years,Yes,Yes
+80+,Yes,Yes
+50 - 59 Years,Yes,Yes
+70 - 79 Years,Yes,Yes
+20 - 29 Years,No,No
+80+,Yes,Yes
+70 - 79 Years,No,No
+50 - 59 Years,Yes,Yes
+10 - 19 Years,Yes,Yes
+70 - 79 Years,No,Yes
+30 - 39 Years,No,No
+80+,Yes,Yes
+20 - 29 Years,No,No
+40 - 49 Years,Yes,Yes
+60 - 69 Years,No,No
+10 - 19 Years,No,Yes
+50 - 59 Years,Yes,No
+10 - 19 Years,Yes,No
+50 - 59 Years,No,Yes
+30 - 39 Years,No,Yes
+50 - 59 Years,No,No
+0 - 9 Years,No,No
+0 - 9 Years,No,No
+50 - 59 Years,No,Yes
+0 - 9 Years,Yes,Yes
+20 - 29 Years,No,Yes
+80+,No,Yes
+0 - 9 Years,Yes,Yes
+50 - 59 Years,Yes,No
+80+,No,No
+0 - 9 Years,Yes,No
+0 - 9 Years,No,Yes
+0 - 9 Years,No,No
+70 - 79 Years,No,Yes
+20 - 29 Years,Yes,No
+70 - 79 Years,No,Yes
+80+,No,No
+40 - 49 Years,Yes,Yes
+30 - 39 Years,Yes,No
+40 - 49 Years,No,Yes
+30 - 39 Years,No,Yes
+60 - 69 Years,No,No
+30 - 39 Years,Yes,No
+20 - 29 Years,No,No
+30 - 39 Years,No,No
+0 - 9 Years,Yes,No
+20 - 29 Years,No,No
+20 - 29 Years,No,No
+30 - 39 Years,No,Yes
+70 - 79 Years,No,Yes
+70 - 79 Years,Yes,No
+30 - 39 Years,No,Yes
+50 - 59 Years,No,No
+30 - 39 Years,Yes,Yes
+10 - 19 Years,Yes,No
+80+,No,Yes
+50 - 59 Years,Yes,No
+80+,Yes,Yes
+20 - 29 Years,No,No
+50 - 59 Years,Yes,Yes
+30 - 39 Years,No,No
+80+,Yes,Yes
+80+,No,Yes
+20 - 29 Years,Yes,Yes
+70 - 79 Years,Yes,No
+40 - 49 Years,Yes,Yes
+80+,Yes,No
+10 - 19 Years,Yes,Yes
+80+,No,No
+80+,No,Yes
+0 - 9 Years,No,Yes
+20 - 29 Years,Yes,Yes
+70 - 79 Years,No,Yes
+30 - 39 Years,Yes,Yes
+10 - 19 Years,Yes,No
+40 - 49 Years,Yes,No
+70 - 79 Years,Yes,Yes
+80+,Yes,No
+50 - 59 Years,Yes,Yes
+30 - 39 Years,No,No
+30 - 39 Years,Yes,No
+80+,Yes,Yes
+0 - 9 Years,No,Yes
+80+,Yes,No
+0 - 9 Years,Yes,No
+80+,Yes,No
+80+,No,Yes
+50 - 59 Years,Yes,No
+30 - 39 Years,No,Yes
+40 - 49 Years,Yes,Yes
+30 - 39 Years,No,No
+80+,Yes,Yes
+0 - 9 Years,No,Yes
+40 - 49 Years,Yes,Yes
+40 - 49 Years,No,No
+20 - 29 Years,Yes,Yes
+80+,No,Yes
+50 - 59 Years,No,Yes
+30 - 39 Years,Yes,Yes
+0 - 9 Years,No,No
+30 - 39 Years,Yes,No
+40 - 49 Years,No,No
+20 - 29 Years,No,Yes
+60 - 69 Years,No,Yes
+20 - 29 Years,Yes,Yes
+50 - 59 Years,Yes,Yes
+80+,No,No
+30 - 39 Years,No,No
+80+,No,Yes
+80+,Yes,No
+40 - 49 Years,Yes,No
+60 - 69 Years,Yes,No
+50 - 59 Years,Yes,Yes
+40 - 49 Years,No,No
+20 - 29 Years,Yes,Yes
+30 - 39 Years,No,No
+0 - 9 Years,Yes,Yes
+60 - 69 Years,No,Yes
+20 - 29 Years,No,Yes
+20 - 29 Years,Yes,Yes
+60 - 69 Years,No,No
+60 - 69 Years,Yes,Yes
+60 - 69 Years,Yes,Yes
+50 - 59 Years,Yes,No
+30 - 39 Years,Yes,No
+80+,Yes,Yes
+50 - 59 Years,No,No
+70 - 79 Years,No,No
+10 - 19 Years,No,Yes
+30 - 39 Years,No,Yes
+70 - 79 Years,No,No
+40 - 49 Years,No,Yes
+70 - 79 Years,Yes,No
+70 - 79 Years,Yes,Yes
+60 - 69 Years,No,No
+70 - 79 Years,Yes,No
+50 - 59 Years,Yes,No
+10 - 19 Years,No,Yes
+30 - 39 Years,No,Yes
+0 - 9 Years,No,Yes
+60 - 69 Years,No,Yes
+60 - 69 Years,Yes,No
+10 - 19 Years,Yes,Yes
+60 - 69 Years,Yes,No
+20 - 29 Years,Yes,Yes
+40 - 49 Years,No,No
+60 - 69 Years,No,Yes
+20 - 29 Years,No,No
+20 - 29 Years,No,Yes
+60 - 69 Years,No,No
+70 - 79 Years,No,No
+60 - 69 Years,No,Yes
+10 - 19 Years,Yes,No
+60 - 69 Years,No,Yes
+30 - 39 Years,No,No
+10 - 19 Years,No,No
+80+,Yes,Yes
+10 - 19 Years,Yes,No
+60 - 69 Years,No,No
+20 - 29 Years,Yes,No
+40 - 49 Years,Yes,No
+60 - 69 Years,No,No
+40 - 49 Years,Yes,Yes
+20 - 29 Years,Yes,Yes
+50 - 59 Years,Yes,No
+70 - 79 Years,No,No
+20 - 29 Years,Yes,Yes
+10 - 19 Years,No,Yes
+80+,No,No
+0 - 9 Years,Yes,No
+60 - 69 Years,Yes,No
+80+,No,Yes
+80+,No,Yes
+70 - 79 Years,Yes,No
+30 - 39 Years,No,No
+10 - 19 Years,No,No
+0 - 9 Years,No,No
+20 - 29 Years,Yes,Yes
+80+,Yes,Yes
+0 - 9 Years,Yes,Yes
+10 - 19 Years,No,Yes
+70 - 79 Years,Yes,Yes
+20 - 29 Years,No,Yes
+70 - 79 Years,No,Yes
+70 - 79 Years,No,No
+70 - 79 Years,No,Yes
+50 - 59 Years,No,Yes
+20 - 29 Years,Yes,No
+30 - 39 Years,No,Yes
+50 - 59 Years,Yes,Yes
+10 - 19 Years,No,Yes
+60 - 69 Years,Yes,Yes
+50 - 59 Years,Yes,Yes
+50 - 59 Years,Yes,Yes
+80+,No,No
+50 - 59 Years,No,Yes
+70 - 79 Years,No,No
+30 - 39 Years,No,No
+50 - 59 Years,Yes,No
+60 - 69 Years,No,No
+40 - 49 Years,No,Yes
+30 - 39 Years,Yes,No
+60 - 69 Years,No,No
+20 - 29 Years,No,Yes
+40 - 49 Years,No,No
+60 - 69 Years,Yes,No
+80+,No,No
+40 - 49 Years,No,Yes
+60 - 69 Years,Yes,Yes
+0 - 9 Years,No,Yes
+30 - 39 Years,No,Yes
+10 - 19 Years,Yes,No
+20 - 29 Years,No,No
+70 - 79 Years,Yes,Yes
+10 - 19 Years,Yes,No
+40 - 49 Years,No,Yes
+30 - 39 Years,No,No
+10 - 19 Years,No,Yes
+30 - 39 Years,No,Yes
+40 - 49 Years,Yes,No
+10 - 19 Years,No,No
+20 - 29 Years,Yes,No
+0 - 9 Years,No,No
+60 - 69 Years,No,Yes
