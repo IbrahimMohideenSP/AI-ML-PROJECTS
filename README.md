@@ -38,15 +38,7 @@ This repository showcases multiple projects built using Python, machine learning
 
 📦 Tools: tensorflow, matplotlib
 
- 5. [Smart Transaction Reversal System](./Smart_Transaction_Reversal_System)
-💳 A prototype system for secure, AI-powered transaction correction:
-- ✅ Automatically flags and reverses faulty digital payments
-- ✅ Uses anomaly detection & recipient verification
-- ✅ Complies with RBI guidelines
-
-📦 Tools: scikit-learn, pandas (optional: blockchain, FastAPI)
-
- 6.Diabetes Prediction with Machine Learning 
+ 5.Diabetes Prediction with Machine Learning 
 
 A predictive AI system that analyzes health metrics to assess diabetes risk in individuals.
 ✅ 1.Health Data Analysis
@@ -59,7 +51,6 @@ A predictive AI system that analyzes health metrics to assess diabetes risk in i
 - Test with manual inputs for instant diagnosis.
 - Outputs: "Diabetic" or "Not Diabetic"
 
----
 🛠️ Tools Used
 
 - Python 🐍  
@@ -69,7 +60,7 @@ A predictive AI system that analyzes health metrics to assess diabetes risk in i
 - Google Sheets as dataset source  
 - Joblib for model saving  
 
-7.Movie Rating Prediction 
+6.Movie Rating Prediction 
 
 An AI model that predicts IMDb ratings based on movie features like genre, duration, cast, and budget.
 🧠 Key Features
