@@ -30,15 +30,8 @@ This repository showcases multiple projects built using Python, machine learning
 
 📦 Tools: scikit-learn, pandas
 
- 4. [Handwritten Digit Recognition](./Handwritten_Digit_Recognition)
-✍ A deep learning model to classify handwritten digits (0–9):
-- 🔢 Trained on the *MNIST dataset*
-- 🧠 Built with TensorFlow CNN
-- 📈 Achieves high accuracy on digit recognition tasks
 
-📦 Tools: tensorflow, matplotlib
-
- 5.Diabetes Prediction with Machine Learning 
+ 4.Diabetes Prediction with Machine Learning 
 
 A predictive AI system that analyzes health metrics to assess diabetes risk in individuals.
 ✅ 1.Health Data Analysis
@@ -60,7 +53,7 @@ A predictive AI system that analyzes health metrics to assess diabetes risk in i
 - Google Sheets as dataset source  
 - Joblib for model saving  
 
-6.Movie Rating Prediction 
+5.Movie Rating Prediction 
 
 An AI model that predicts IMDb ratings based on movie features like genre, duration, cast, and budget.
 🧠 Key Features
@@ -76,7 +69,7 @@ An AI model that predicts IMDb ratings based on movie features like genre, durat
 - Scikit-learn  
 - Matplotlib, Seaborn
 
-7. Car Price Prediction 
+6. Car Price Prediction 
 
 An ML-based regression model that predicts the selling price of used cars using key features like year, company, fuel type, and kms driven.
 
