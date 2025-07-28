@@ -87,8 +87,6 @@ Scikit-learn, XGBoost
 Matplotlib, Seaborn
 ---
 
-## 👨‍💻 Developed By
-
 ## How to Run the Projects
 
 Each project folder includes:
