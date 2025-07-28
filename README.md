@@ -74,8 +74,24 @@ An AI model that predicts IMDb ratings based on movie features like genre, durat
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
-- Matplotlib, Seaborn  
+- Matplotlib, Seaborn
 
+7. Car Price Prediction 
+
+An ML-based regression model that predicts the selling price of used cars using key features like year, company, fuel type, and kms driven.
+
+🧠 Key Features
+✅ Cleans real-world noisy data (e.g., "Ask For Price")
+✅ Encodes categorical fields with one-hot encoding
+✅ Trains models like XGBoost and Random Forest
+✅ Delivers accurate price predictions with performance evaluation
+
+🛠️ Tools Used
+
+Python
+Pandas, NumPy
+Scikit-learn, XGBoost
+Matplotlib, Seaborn
 ---
 
 ## 👨‍💻 Developed By
